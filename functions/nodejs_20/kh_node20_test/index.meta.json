@@ -1,0 +1,16 @@
+{
+  "apiID": "package_701d14__c__function_aadirq3dijqba",
+  "apiName": "kh_node20_test",
+  "label": {
+    "zh_CN": "kh_node20_test",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
